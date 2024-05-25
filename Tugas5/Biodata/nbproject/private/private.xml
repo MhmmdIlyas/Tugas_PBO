@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/SEMESTER%204/PBO/pbo/Biodata/src/id/bio/controller/JurusanController.java</file>
+            <file>file:/D:/SEMESTER%204/PBO/pbo/Biodata/src/id/bio/MainProgram.java</file>
+            <file>file:/D:/SEMESTER%204/PBO/pbo/Biodata/src/id/bio/dao/MahasiswaDAOImpl.java</file>
+            <file>file:/D:/SEMESTER%204/PBO/pbo/Biodata/src/id/bio/model/CrudState.java</file>
+            <file>file:/D:/SEMESTER%204/PBO/pbo/Biodata/src/id/bio/controller/BiodataController.java</file>
+            <file>file:/D:/SEMESTER%204/PBO/pbo/Biodata/src/id/bio/dao/MahasiswaDAO.java</file>
+            <file>file:/D:/SEMESTER%204/PBO/pbo/Biodata/src/id/bio/model/Mahasiswa.java</file>
+            <file>file:/D:/SEMESTER%204/PBO/pbo/Biodata/src/id/bio/view/Jurusan.java</file>
+            <file>file:/D:/SEMESTER%204/PBO/pbo/Biodata/src/id/bio/model/Jurusan.java</file>
+            <file>file:/D:/SEMESTER%204/PBO/pbo/Biodata/src/id/bio/dao/JurusanDAO.java</file>
+            <file>file:/D:/SEMESTER%204/PBO/pbo/Biodata/src/id/bio/dao/JurusanDAOImpl.java</file>
+            <file>file:/D:/SEMESTER%204/PBO/pbo/Biodata/src/id/bio/database/DatabaseMySQL.java</file>
+        </group>
+    </open-files>
+</project-private>
